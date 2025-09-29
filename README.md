@@ -30,4 +30,9 @@ This project involves:
 - Data Engineering  
 - ETL Pipeline Developer  
 - Data Modeling  
-- Data Analytics  
+- Data Analytics
+
+---
+## Sample photos
+![SQL Screenshot2](assets/data_sql.png)
+![SQL Screenshot1](assets/data_sql_2.png)
